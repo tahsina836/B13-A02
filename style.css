@@ -44,7 +44,7 @@
     background-image: url(assets/hero-bg.png);
     background-size: cover;
     height: 640px;
-  
+  width: 100%;
     text-align: center;
     color: white;
 
