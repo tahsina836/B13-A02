@@ -343,11 +343,11 @@ footer {
     display: flex;
     justify-content: space-between;
     margin: 32px;
-    align-items: center;
+   
 }
 
 .footer-section li {
-    list-style: none;
+    list-style: none; align-items: center;
 }
 
 
