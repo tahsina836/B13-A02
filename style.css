@@ -346,16 +346,19 @@ footer {
 .footer-section {
     display: flex;
     justify-content: space-between;
-    margin: 32px;
+
 
 }
 
 .footer-section li {
     list-style: none;
     align-items: center;
+    margin-top: 30px;
 }
 
-
+footer p {
+    margin-top: 150px;
+}
 
 
 @media screen and (max-width:576px) {
