@@ -7,7 +7,7 @@
 .rounded-mic-parent {
 
     position: relative;
-    top: 10%;
+    top: 20%;
 }
 
 .rounded-mic-parent .mic {
@@ -31,7 +31,7 @@
     display: inline-block;
     position: absolute;
     top: 45px;
-    left: 790px;
+    left: 1130px;
     transform: translate(-50%, -50%);
 }
 
