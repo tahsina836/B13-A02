@@ -7,6 +7,7 @@
 .rounded-mic-parent {
 
     position: relative;
+    top: 10%;
 }
 
 .rounded-mic-parent .mic {
@@ -59,6 +60,9 @@ header {
 }
 
 
+.header-text {
+    margin-top: 100px;
+}
 
 .header-text p {
     color: rgb(151, 155, 158);
