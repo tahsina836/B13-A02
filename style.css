@@ -44,7 +44,7 @@
     background-image: url(assets/hero-bg.png);
     background-size: cover;
     height: 640px;
-  width: 100%;
+    width: 100%;
     text-align: center;
     color: white;
 
@@ -343,11 +343,12 @@ footer {
     display: flex;
     justify-content: space-between;
     margin: 32px;
-   
+
 }
 
 .footer-section li {
-    list-style: none; align-items: center;
+    list-style: none;
+    align-items: center;
 }
 
 
